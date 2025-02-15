@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yasha</h1>
+<h1 align="center">Hi 👋, I'm Yasha!</h1>
 <h3 align="center">A passionate comp sci from SRMIST KTR</h3>
 
 <div style="display: flex; align-items: center;">
